@@ -1,0 +1,1584 @@
+fileFormatVersion: 2
+guid: d7ab5814034791e4ab92a2381f7ab442
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 952446437810572789
+    second: litte fire knight_0
+  - first:
+      213: -2358413523773351925
+    second: litte fire knight_1
+  - first:
+      213: -837045104750949614
+    second: litte fire knight_2
+  - first:
+      213: -8330918236291097699
+    second: litte fire knight_3
+  - first:
+      213: -2513521387405294196
+    second: litte fire knight_4
+  - first:
+      213: 2616665897599169806
+    second: litte fire knight_5
+  - first:
+      213: -4414847642413918275
+    second: litte fire knight_6
+  - first:
+      213: 6188350453003137752
+    second: litte fire knight_7
+  - first:
+      213: -5917181674751045570
+    second: litte fire knight_8
+  - first:
+      213: 4102143932159610701
+    second: litte fire knight_9
+  - first:
+      213: 7065859362410177202
+    second: litte fire knight_10
+  - first:
+      213: -3254167743059015550
+    second: litte fire knight_11
+  - first:
+      213: -5982058179289430379
+    second: litte fire knight_12
+  - first:
+      213: 2628283891442276096
+    second: litte fire knight_13
+  - first:
+      213: -4408240779898961357
+    second: litte fire knight_14
+  - first:
+      213: -5074377633100296192
+    second: litte fire knight_15
+  - first:
+      213: 3521255377811905628
+    second: litte fire knight_16
+  - first:
+      213: 6441396557648306728
+    second: litte fire knight_17
+  - first:
+      213: -1248768455645628696
+    second: litte fire knight_18
+  - first:
+      213: 4997324440897803223
+    second: litte fire knight_19
+  - first:
+      213: -6253850613053187972
+    second: litte fire knight_20
+  - first:
+      213: 728037559777547654
+    second: litte fire knight_21
+  - first:
+      213: -6785786856096646248
+    second: litte fire knight_22
+  - first:
+      213: -1041786507387716270
+    second: litte fire knight_23
+  - first:
+      213: -8661604206031088432
+    second: litte fire knight_24
+  - first:
+      213: -816507974023144232
+    second: litte fire knight_25
+  - first:
+      213: -7288417667568772634
+    second: litte fire knight_26
+  - first:
+      213: 5241025048765198655
+    second: litte fire knight_27
+  - first:
+      213: 5224113244875047259
+    second: litte fire knight_28
+  - first:
+      213: 6826101704856347876
+    second: litte fire knight_29
+  - first:
+      213: -170715757168926465
+    second: litte fire knight_30
+  - first:
+      213: -6242980633072841661
+    second: litte fire knight_31
+  - first:
+      213: 3972678601933432409
+    second: litte fire knight_32
+  - first:
+      213: -6790398303642523673
+    second: litte fire knight_33
+  - first:
+      213: 1686464062267927077
+    second: litte fire knight_34
+  - first:
+      213: -2241901190955852343
+    second: litte fire knight_35
+  - first:
+      213: 400649825650876210
+    second: litte fire knight_36
+  - first:
+      213: -5565557132885208331
+    second: litte fire knight_37
+  - first:
+      213: -2100449987056748002
+    second: litte fire knight_38
+  - first:
+      213: -4307745686405818954
+    second: litte fire knight_39
+  - first:
+      213: 4927485026516566103
+    second: litte fire knight_40
+  - first:
+      213: 3959946031368874402
+    second: litte fire knight_41
+  - first:
+      213: 4217552974845730954
+    second: litte fire knight_42
+  - first:
+      213: 5231469482811977848
+    second: litte fire knight_43
+  - first:
+      213: 8350608943769168021
+    second: litte fire knight_44
+  - first:
+      213: -7837374692210255811
+    second: litte fire knight_45
+  - first:
+      213: -1479262361667076816
+    second: litte fire knight_46
+  - first:
+      213: 4991423133033750089
+    second: litte fire knight_47
+  - first:
+      213: 4692972071898259453
+    second: litte fire knight_48
+  - first:
+      213: -8022704951193788244
+    second: litte fire knight_49
+  - first:
+      213: 3361094722156166017
+    second: litte fire knight_50
+  - first:
+      213: 4302920813297081845
+    second: litte fire knight_51
+  - first:
+      213: -6276094156706518594
+    second: litte fire knight_52
+  - first:
+      213: -8254889056889719437
+    second: litte fire knight_53
+  - first:
+      213: 7912750605034332171
+    second: litte fire knight_54
+  - first:
+      213: -7192884326734521501
+    second: litte fire knight_55
+  - first:
+      213: -3118252405751718017
+    second: litte fire knight_56
+  - first:
+      213: -738544679103440078
+    second: litte fire knight_57
+  - first:
+      213: 5641349230855387239
+    second: litte fire knight_58
+  - first:
+      213: 3831689627504651374
+    second: litte fire knight_59
+  - first:
+      213: -3867949496275777369
+    second: litte fire knight_60
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 26.666666
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: litte fire knight_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 459
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd09492df4c73d00800000000000000
+      internalID: 952446437810572789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 459
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b081302456b354fd0800000000000000
+      internalID: -2358413523773351925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 460
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b075e79e73264f0800000000000000
+      internalID: -837045104750949614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_3
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 486
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b9b01d002a26c80800000000000000
+      internalID: -8330918236291097699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 461
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c854c588d9d2e1dd0800000000000000
+      internalID: -2513521387405294196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_5
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 454
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05f64a25c3405420800000000000000
+      internalID: 2616665897599169806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_6
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 454
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db79278c57f4bb2c0800000000000000
+      internalID: -4414847642413918275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_7
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 458
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d231e023ff61e550800000000000000
+      internalID: 6188350453003137752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_8
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 458
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30530d0e92f1eda0800000000000000
+      internalID: -5917181674751045570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 395
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fc5e51c2ebde830800000000000000
+      internalID: 4102143932159610701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_10
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 395
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2a35157a9fe0260800000000000000
+      internalID: 7065859362410177202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 395
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288ce63ddafd6d2d0800000000000000
+      internalID: -3254167743059015550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 395
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596cbbdb7c57bfca0800000000000000
+      internalID: -5982058179289430379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_13
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 395
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0075c46264a897420800000000000000
+      internalID: 2628283891442276096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_14
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 395
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3324bb5dd58c2d2c0800000000000000
+      internalID: -4408240779898961357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_15
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 396
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0009eda8d603499b0800000000000000
+      internalID: -5074377633100296192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_16
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 396
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c99e51c130ed030800000000000000
+      internalID: 3521255377811905628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_17
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 396
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8222d0c8a00746950800000000000000
+      internalID: 6441396557648306728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_18
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 396
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e67782b4bb7baee0800000000000000
+      internalID: -1248768455645628696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_19
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 331
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3571f1a101a5540800000000000000
+      internalID: 4997324440897803223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_20
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 331
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c781b92700cd539a0800000000000000
+      internalID: -6253850613053187972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_21
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 331
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685dea5ad428a1a00800000000000000
+      internalID: 728037559777547654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 331
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b38d89eca04d1a0800000000000000
+      internalID: -6785786856096646248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_23
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 331
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d3c5fe0b4da81f0800000000000000
+      internalID: -1041786507387716270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_24
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 332
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4dc72addccbc780800000000000000
+      internalID: -8661604206031088432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_25
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 332
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc931cd25e2ba4f0800000000000000
+      internalID: -816507974023144232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_26
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 332
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9d1ed3fb65ada90800000000000000
+      internalID: -7288417667568772634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_27
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 332
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31f292838cdbb840800000000000000
+      internalID: 5241025048765198655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_28
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 332
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51c0335157cf7840800000000000000
+      internalID: 5224113244875047259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_29
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 267
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4a6a6955f2bbe50800000000000000
+      internalID: 6826101704856347876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_30
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 267
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff062606cee71adf0800000000000000
+      internalID: -170715757168926465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_31
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 267
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ccc02e03a7c59a0800000000000000
+      internalID: -6242980633072841661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_32
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 202
+        width: 100
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956a90be32ac12730800000000000000
+      internalID: 3972678601933432409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_33
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 203
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7e8fb48b8a3c1a0800000000000000
+      internalID: -6790398303642523673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_34
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 203
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a21fd1126876710800000000000000
+      internalID: 1686464062267927077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 136
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd1d83beba23e0e0800000000000000
+      internalID: -2241901190955852343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_36
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 136
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f1e39c4e46f8500800000000000000
+      internalID: 400649825650876210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 136
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f25c35764b23c2b0800000000000000
+      internalID: -5565557132885208331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_38
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 134
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a320d8dd3b9d2e0800000000000000
+      internalID: -2100449987056748002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_39
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 134
+        width: 88
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b55f032f10d734c0800000000000000
+      internalID: -4307745686405818954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75083915681f16440800000000000000
+      internalID: 4927485026516566103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_41
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9a5715fed84f630800000000000000
+      internalID: 3959946031368874402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_42
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 74
+        width: 58
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a806217c512c78a30800000000000000
+      internalID: 4217552974845730954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_43
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 74
+        width: 54
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870fd40f6c9e99840800000000000000
+      internalID: 5231469482811977848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_44
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 74
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598af87479253e370800000000000000
+      internalID: 8350608943769168021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_45
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 74
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38db2bdd3d0c3390800000000000000
+      internalID: -7837374692210255811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_46
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 74
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d7a3338ba987be0800000000000000
+      internalID: -1479262361667076816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_47
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 74
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ed420d4e8154540800000000000000
+      internalID: 4991423133033750089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_48
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 74
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff13562c39c02140800000000000000
+      internalID: 4692972071898259453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_49
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0a35e5a50a9a090800000000000000
+      internalID: -8022704951193788244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_50
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bfe8a87d105ae20800000000000000
+      internalID: 3361094722156166017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_51
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd153d8eab07bb30800000000000000
+      internalID: 4302920813297081845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_52
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb96a9cdd95d6e8a0800000000000000
+      internalID: -6276094156706518594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_53
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 0
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37534d7932eb07d80800000000000000
+      internalID: -8254889056889719437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_54
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00245170ccbfcd60800000000000000
+      internalID: 7912750605034332171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_55
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b938a70ddbd2c90800000000000000
+      internalID: -7192884326734521501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_56
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 265
+        width: 48
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f592b45fdb9b4d0800000000000000
+      internalID: -3118252405751718017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_57
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 263
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bd84ff68920c5f0800000000000000
+      internalID: -738544679103440078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_58
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 74
+        width: 58
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768fe0f7c391a4e40800000000000000
+      internalID: 5641349230855387239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_59
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 72
+        width: 37
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ca6f04a65ec2530800000000000000
+      internalID: 3831689627504651374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: litte fire knight_60
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 72
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8c4592d68425ac0800000000000000
+      internalID: -3867949496275777369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
