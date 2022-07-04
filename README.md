@@ -1,21 +1,20 @@
 # Dark-Tower
 
-Current Objecive. Fix jump ainmation
-jump animation has been split into 3 parts. Rise fall and land
-Jump_Rise to be played while upward acceleration is >0 (irrelevant)
-Jump_fall to be played while upward acceleration<= 0
-OR
-Jump_fall to be played when upward accel= downward acelrtaion. and continues to play until downward accelration=0
+Current Objective. 
+Add deay between jumps so that jump cannot be spammed. Shold be extremely preise and delay must end after jummp_land has finished playing 
 
-make bool. [redacted] . Falling. Landed
-Rising to be linked with upward accelartion (irrelevant)
-Falling to be linked with downwawrd acceleration and upward accelration
+Objective 2
+Attack animations have been created
+Attack 1
+Attack 2
+Attack 3
+Withdraw
 
-AAnother approach. reference y axis
-as long as pos y keeps on increasing. Jump_Rise will continue to play. (irrelevenat)
-if pos y starts ddecreasing  play jump_fall 
-pos y stops updating= play JUmp_Land
+Attack 1 is to be played when player presses attack once
+Attack 2 is to be played when player presses attack twice
+Attack 3 is to be played when player presses attack thrice
+If more than 3 attacks are inputed then animation is to cycle between attack 2 and attack 3 until input stops being recieved
+Once attack input is no longer being given
+Wtihdraw animation is to be played. Positon X of player should be frozen while Withdraw animation is being played.
 
-Edit. No need to make rising bool. Jumpnig (bool is already created) is enough for jump _rise to play
-only 2 bools are neded Falling and Landed
-bool (falling) will be used to transition from jump_rise. so until conditions of falling arent met rise will continue to play hence bool(rising) is not needed
+Note: When any attack animation (attack 1/2/3) is being played. Position X of player must be updated by one unit in the direction player is facing
