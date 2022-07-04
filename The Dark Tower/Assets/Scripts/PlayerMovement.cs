@@ -20,13 +20,13 @@ public class PlayerMovement : MonoBehaviour
 
         horizontalmove= Input.GetAxisRaw("Horizontal")*runspeed ;
 
-        animator.SetFloat("Speed", Mathf.Abs(horizontalmove));
-
         if(animator.GetCurrentAnimatorStateInfo(0).IsName("Jump_Land")){
             runspeed = 0;
         } else {
             runspeed = 40;
         }
+
+        animator.SetFloat("Speed", Mathf.Abs(horizontalmove));
 
             
         if (Input.GetButtonDown("Jump"))
