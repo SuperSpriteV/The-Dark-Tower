@@ -2570,7 +2570,7 @@ Animator:
   m_Controller: {fileID: 9100000, guid: 2440461be3e430a4da744867bc54129e, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
-  m_ApplyRootMotion: 0
+  m_ApplyRootMotion: 1
   m_LinearVelocityBlending: 0
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
@@ -2617,6 +2617,7 @@ MonoBehaviour:
   controller: {fileID: 2034431291}
   runspeed: 40
   animator: {fileID: 2034431296}
+  playerRigidBody2D: {fileID: 0}
 --- !u!114 &2034431299
 MonoBehaviour:
   m_ObjectHideFlags: 0
