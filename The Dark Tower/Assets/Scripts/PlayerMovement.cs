@@ -10,16 +10,24 @@ public class PlayerMovement : MonoBehaviour
     bool jump = false;
     bool crouch=false;
     public Animator animator;
+    public Rigidbody2D playerRigidBody2D;
 
 
 
-    
     // Update is called once per frame
     void Update()
     {
+
         horizontalmove= Input.GetAxisRaw("Horizontal")*runspeed ;
 
         animator.SetFloat("Speed", Mathf.Abs(horizontalmove));
+
+        if(animator.GetCurrentAnimatorStateInfo(0).IsName("Jump_Land")){
+            runspeed = 0;
+        } else {
+            runspeed = 40;
+        }
+
             
         if (Input.GetButtonDown("Jump"))
         {
@@ -50,9 +58,6 @@ public class PlayerMovement : MonoBehaviour
     {
         controller.Move(horizontalmove*Time.fixedDeltaTime,crouch,jump);
         jump = false;
-        
-        
-
 
     }
 }
