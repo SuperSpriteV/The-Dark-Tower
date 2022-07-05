@@ -11,6 +11,7 @@ public class PlayerMovement : MonoBehaviour
     bool crouch=false;
     public Animator animator;
     public Rigidbody2D playerRigidBody2D;
+    public float canJump = 0f;
 
 
 
@@ -29,11 +30,13 @@ public class PlayerMovement : MonoBehaviour
         animator.SetFloat("Speed", Mathf.Abs(horizontalmove));
 
             
-        if (Input.GetButtonDown("Jump"))
+        if (Input.GetButtonDown("Jump") && Time.time > canJump)
         {
             jump = true;
             animator.SetBool("Jumping", true);
+            
         }
+        
 
         if (Input.GetButtonDown("Crouch"))
         {
@@ -47,8 +50,11 @@ public class PlayerMovement : MonoBehaviour
 
     public void OnLanding()
     {
-        animator.SetBool("Jumping",false);
+        canJump = Time.time + 0.2f;
+        animator.SetBool("Jumping", false);
+        
     }
+    
 
     public void OnCrouching(bool isCrouching)
     {
