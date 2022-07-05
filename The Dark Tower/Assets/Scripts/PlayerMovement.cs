@@ -12,6 +12,7 @@ public class PlayerMovement : MonoBehaviour
     public Animator animator;
     public Rigidbody2D playerRigidBody2D;
     public float canJump = 0f;
+    public   float levalue = 0;
 
 
 
@@ -50,7 +51,7 @@ public class PlayerMovement : MonoBehaviour
 
     public void OnLanding()
     {
-        canJump = Time.time + 0.2f;
+        canJump = Time.time + levalue;
         animator.SetBool("Jumping", false);
         
     }
